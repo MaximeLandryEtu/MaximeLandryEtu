@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use pygame and github for an engineering school project.
 - 💞️ I’m only looking to collaborate on private projects for now.
 - 📫 How to reach me : Don't.
-- 😄 Pronouns: I'm a Man. I define as a man not because i feel a man but because i biologically am a man.
+- 😄 Pronouns: I'm a Man. I define as a man not because i feel a man but because i biologically am a man. I don't care about genders. That being said, I have no problem talking with lgbt persons.
 - ⚡ Fun fact: I can bend my fingers backwards.
 
 <!---
